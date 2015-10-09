@@ -1,1 +1,7 @@
-TRabajo en equipo con git
+Trabajo en equipo con git
+
+1. ¿Diferencia entre compilación e interpretación?
+
+En la compilación se genera un nuevo fichero(en código máquina) a partir de nuestro fichero fuente  
+mientras que en la interpretación se analiza y ejecuta cada línea de código sin necesidad
+de generar un nuevo fichero.
